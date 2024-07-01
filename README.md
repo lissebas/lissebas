@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="justify">
 
-<!--
-**lissebas/lissebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Hobbies -->
+  <p align='center'>
+    Hey, I'm <strong>lissebas</strong>, a Data Scientist passionate to emerging technologies, data structure and rock-metal music.
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Insights -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lissebas&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  <!-- Contact to me  -->
+  <i class="fi fi-sr-user"></i>
+  
+</div>
